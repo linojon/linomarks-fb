@@ -39,6 +39,8 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'haml'
+gem 'bootstrap-sass', '~> 3.1.1'
+
 gem 'devise'
 gem 'figaro'
 
