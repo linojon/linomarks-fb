@@ -42,6 +42,7 @@ gem 'haml'
 gem 'bootstrap-sass', '~> 3.1.1'
 
 gem 'devise'
+gem 'omniauth-facebook'
 gem 'figaro'
 
 group :development, :test do
