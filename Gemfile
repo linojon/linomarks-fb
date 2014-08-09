@@ -40,6 +40,7 @@ gem 'spring',        group: :development
 
 gem 'haml'
 gem 'devise'
+gem 'figaro'
 
 group :development, :test do
   gem 'sqlite3'

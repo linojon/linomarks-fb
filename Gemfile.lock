@@ -72,6 +72,9 @@ GEM
       railties (>= 3.0.0)
     faker (1.4.2)
       i18n (~> 0.5)
+    figaro (0.7.0)
+      bundler (~> 1.0)
+      rails (>= 3, < 5)
     haml (4.0.5)
       tilt
     hike (1.2.3)
@@ -193,6 +196,7 @@ DEPENDENCIES
   devise
   factory_girl_rails
   faker
+  figaro
   haml
   jbuilder (~> 2.0)
   jquery-rails
